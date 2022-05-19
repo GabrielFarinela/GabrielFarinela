@@ -8,6 +8,4 @@ Estou desenvolvendo minhas habilidades com programação;
 
 Ja tive contato com Phyton e Java;
 
-No momento aprendendo JavaScript, CSS e HTML.
-
-
+No atual momento estou me dedicando a TS, Angular, JS, HTML e CSS
