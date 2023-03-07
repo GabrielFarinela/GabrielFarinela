@@ -1,5 +1,5 @@
 ```
-const readMePlease = {
+<span style="color:red;">const</span> readMePlease = {
     greetings: "Hey there 👋",
     who: "FullStack developer",
     iAm: "Gabriel Farinela",
