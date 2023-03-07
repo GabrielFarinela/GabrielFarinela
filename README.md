@@ -1,7 +1,9 @@
-Oi, meu nome é Gabriel Farinela;
-
-Tenho 22 anos;
-
-Estou cursando Análise e Desenvolvimento de Sistemas;
-
-Trabalho na area a dois anos, com AngularJS, ReactJS e C# com .net Core.
+const readMePlease = {
+    greetings: "Hey there 👋",
+    who: "FullStack developer",
+    iAm: "Gabriel Farinela",
+    usually: "Studying",
+    website: Being built...,
+    experience: ["React", "Angular", "JavaScript", "TypeScript", "C#", ".Net Core"],
+    Linkedin: "https://www.linkedin.com/in/gabriel-farinela/"
+}
